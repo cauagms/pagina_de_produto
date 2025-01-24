@@ -91,18 +91,18 @@ header {
     flex: 1;
 }
 
-.product-galler img {
+.product-gallery img {
     width: 100%;
     border-radius: 10px;
 }
 
-.gallery-thumbnails {
+.galerry-thumbnails {
     display: flex;
     gap: 10px;
     margin-top: 15px;
 }
 
- .gallery-thumbnails img {
+ .galerry-thumbnails img {
     width: 60px;
     cursor: pointer;
     border: 2px solid transparent;
